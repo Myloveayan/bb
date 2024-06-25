@@ -1,0 +1,4 @@
+scp -r C:/Users/fd/Documents/bube/bubetech/templates root@85.239.33.87:/root/myprojectdir/bube/
+
+
+nohup python manage.py runserver 0.0.0.0:8005 &
